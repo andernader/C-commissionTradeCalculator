@@ -1,7 +1,6 @@
 # C-commissionTradeCalculator
 A C-code solves a broker's commission from the book "C Programming A Modern Approach" ch 5 page 106.<br>
 The values according to this table: <br>
-Transaction size    commission rate<br>
 | Transaction size | Commission rate |
 |------------------|-----------------|
 |Under $2,500      | $30 + 1.7%      |
